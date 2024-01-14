@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-11T16:02:24.729Z",
+      "notes": "",
+      "position": {
+        "lat": "52.46939684276205",
+        "lng": "13.645019531250002"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-11T16:02:31.315Z",
+      "notes": "",
+      "position": {
+        "lat": "48.821332549646655",
+        "lng": "2.4609375000000004"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-11T16:02:39.590Z",
+      "notes": "",
+      "position": {
+        "lat": "40.43022363450862",
+        "lng": "-3.6035156250000004"
+      },
+      "id": 3
+    }
+  ]
+}
